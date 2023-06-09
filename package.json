@@ -1,0 +1,26 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.15.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^16.1.4",
+    "ejs": "^3.1.9",
+    "express": "^4.16.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  }
+}
